@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning JavaScript, PyTorch and TensorFlow<br>🎯 Goals: To become an ML Engineer, eventually an ML Research Scientist, but have ample competetence on independent full stack development.<br>🎲 Fun fact: I sometimes talk in my sleep (hope no one is listening...💤)</p>
+<p data-importer="text" align="left">✨ Creating bugs since 2025<br><br>📚 I'm currently learning JavaScript, PyTorch and TensorFlow<br><br>🎯 Goals: To become an ML Engineer/ML Research Scientist, with experience in Full Stack Development.<br><br>🎲 Fun fact: I sometimes talk in my sleep (hope no one is listening...💤)</p>
 
 ###
 
