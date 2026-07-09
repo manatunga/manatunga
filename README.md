@@ -16,7 +16,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">My arsenal (a.k.a. my stack)</h2>
+<h2 data-importer="text" align="left">My arsenal</h2>
 
 ###
 
