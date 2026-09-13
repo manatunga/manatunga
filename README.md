@@ -10,7 +10,7 @@ I'm a prospective CS student about to partake my degree: BEng (Hons) Artificial 
 * 🌍  I'm based in Colombo, Sri Lanka
 * ✉️  You can contact me at [janithamanatunga@gmail.com](mailto:janithamanatunga@gmail.com)
 * 🧠  I'm currently learning Python for ML, SQL, Docker and AWS/GCP
-* 💬  Ask me about Fun Fact: I sometimes talk in my sleep 🤫
+* 💬  Fun Fact: I sometimes talk in my sleep 🤫
 
 ### Tech Stack
 
