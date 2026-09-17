@@ -5,7 +5,7 @@ Aspiring AI, ML and Data Engineer
 ---------------------------------
 <br>
 
-I'm a prospective CS student about to partake my degree: BEng (Hons) Artificial Intelligence and Data Engineering, after a few years of self teaching myself coding. I'm aiming to enter the AI industry, particularly in MLOps, AI Cloud Platforms and Data Engineering.
+I'm a prospective CS student about to pursue my degree: BEng (Hons) Artificial Intelligence and Data Engineering, after a few years of self-teaching myself coding. I'm aiming to enter the AI industry, particularly in MLOps, AI Cloud Platforms and Data Engineering.
 
 * 🌍  I'm based in Colombo, Sri Lanka
 * ✉️  You can contact me at [janithamanatunga@gmail.com](mailto:janithamanatunga@gmail.com)
