@@ -1,23 +1,26 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Janitha Manatunga
 ==========================================================================================================================================
 
-Aspiring AI, ML and Data Engineer
----------------------------------
-<br>
+**Incoming BEng (Hons) Artificial Intelligence & Data Engineering Undergraduate**  
+*Passionate about MLOps, Developer Tooling, and Data Infrastructure Systems.*
 
-I'm an incoming undergraduate studying Artificial Intelligence and Data Engineering, actively self-teaching DevOps, platform engineering and machine learning. I'm aiming to enter the AI industry, particularly in MLOps, AI Cloud Platforms and Data Engineering.
+---
 
-* 🌍  I'm based in Colombo, Sri Lanka
-* ✉️  You can contact me at [janithamanatunga@gmail.com](mailto:janithamanatunga@gmail.com)
-* 🧠  I'm currently learning Python for ML, SQL, Docker and AWS/GCP
-* 💬  Fun Fact: I sometimes talk in my sleep 🤫
+### ⚡ Current Highlight
+*   🛡️ **Open-Source Contribution:** Currently integrating **`repopy`** commands as secure, permissioned extension modules within **[HOL Guard]([https://github.com](https://github.com/hashgraph-online/hol-guard))** to mitigate dependency execution risks in AI agent sandboxes.
 
-### Tech Stack
+---
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
-</p>
+### 🏗️ Pinned Projects Architecture
 
-### Socials
+*   📦 **[repopy](https://pypi.org/projects/repopy) (v0.3.0):** Cross-platform Python CLI workspace manager published to PyPI. Features defensive transactional rollbacks and automated GitHub Actions CI testing.
+*   🧠 **[bodyfat-regression-ml](https://github.com/manatunga/bodyfat-regression-ml):** Machine learning pipeline using Scikit-Learn. Features isolated data states and versioned transformation objects (`scaler.pkl`).
+*   🤖 **[cassian](https://github.com/manatunga/cassian):** Long-term AI assistant architecture sandbox. Employs decoupled operational loops (UI → Parser → Handlers) and automated JSON schema migrations.
+*   ⚡ **[mbti-quiz](https://github.com/manatunga/mbti-quiz):** Frontend prototyping sprint built to evaluate TypeScript strict static typing and Tailwind CSS layout structures.
 
-<p align="left"> <a href="https://www.linkedin.com/in/janithamanatunga" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+---
+
+### 🧰 Tech Stack
+
+*   **Core Fluency:** Python, Bash, Git, PyPI, GitHub Actions (CI)
+*   **Applied Knowledge:** SQL, Scikit-Learn, PyTorch, NumPy, Pandas, TypeScript, Tailwind CSS, HTML5, CSS3
