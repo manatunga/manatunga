@@ -41,7 +41,7 @@ A highly modular, cross-platform Python CLI workspace manager designed to automa
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;&nbsp;&nbsp;
-![SQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;&nbsp;
 
 #### ⚙️ Automation, DevOps & Platform Engineering
 ![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=%234EAA25)&nbsp;&nbsp;&nbsp;
