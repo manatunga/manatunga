@@ -10,8 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🛠️ Aspiring **MLOps Engineer** focused on building resilient data infrastructure and robust developer tooling for production AI/ML.
 - 📦 Active open-source engineer experienced in cross-platform CLI development, environment isolation automation, and package distribution.
-- 🎯 Currently studying system architecture patterns, mastering **Docker**, and investigating scalable inference deployments using **FastAPI**.
-
+- 🎯 Currently studying system architecture patterns, mastering **Docker** and **Go (Golang)**, and investigating scalable inference deployments using **FastAPI**.
 ---
 
 ### 🔬 Project Spotlight: `repopy` (Active PyPI Distribution)
