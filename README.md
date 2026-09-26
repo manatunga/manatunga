@@ -40,13 +40,15 @@ A highly modular, cross-platform Python CLI workspace manager designed to automa
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;&nbsp;&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;&nbsp;&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=sqlite&logoColor=4479A1)&nbsp;&nbsp;&nbsp;
 
 #### ⚙️ Automation, DevOps & Platform Engineering
-![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=%234EAA25)&nbsp;&nbsp;&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![GitHub Actions](http://img.shields.io/badge/-GitHub%20Actions-333333?style=for-the-badge&logo=github-actions)&nbsp;&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;&nbsp;
+![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=%234EAA25)&nbsp;&nbsp;&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;
 
 #### 🌐 Frontend Web Ecosystem
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;
