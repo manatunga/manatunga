@@ -38,7 +38,7 @@ A highly modular, cross-platform Python CLI workspace manager designed to automa
 
 - **Contributions & Impact:**
   - Integrated the `repopy` extension into HOL Guard's security engine, enabling runtime inspection and firewall evaluation for `repopy` CLI operations.
-  - Authored test fixtures and payload definitions in `tests/fixtures/` and `contributions/` to validate extension behaviour[span_2].
+  - Authored test fixtures and payload definitions in `tests/fixtures/` and `contributions/` to validate extension behaviour.
   - Worked with maintainers to resolve upstream merge conflicts and pass automated CI checks.
 
 ---
