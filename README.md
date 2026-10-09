@@ -8,9 +8,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### 🚀 About Me
 
-- 🛠️ Aspiring **MLOps Engineer** focused on building resilient data infrastructure and robust developer tooling for production AI/ML.
-- 📦 Active open-source engineer experienced in cross-platform CLI development, environment isolation automation, and package distribution.
-- 🎯 Currently studying system architecture patterns, mastering **Docker** and **Go (Golang)**, and investigating scalable inference deployments using **FastAPI**.
+- 🔭 **I'm currently working on** [Quilchoom](https://github.com/manatunga/quilchoom) — a developer activity scribing tool.
+- 👯 **I'm looking to collaborate on** open-source Python projects, developer tools, CLI applications, and backend development.
+- 🤝 **I'm looking for help with** improving Quilchoom's architecture, activity capture, and documentation-generation workflows.
+- 🌱 **I'm currently learning** backend engineering, software architecture, and AI/ML development.
+- 💬 **Ask me about** Python, Git/GitHub, CLI development, repository tooling, and my open-source projects.
+- ⚡ **Fun fact:** I enjoy building tools that help developers build better tools.
 ---
 
 ### 🔬 Project Spotlight: `repopy` (Active PyPI Distribution)
@@ -32,38 +35,32 @@ A highly modular, cross-platform Python CLI workspace manager designed to automa
 
 ---
 
-### 🤝 Open Source Contribution: [HOL Guard (Hashgraph Online)](https://github.com/hashgraph-online/hol-guard)
-
-*An open-source AI agent runtime security engine and execution firewall.*
-
-- **Contributions & Impact:**
-  - Integrated the `repopy` extension into HOL Guard's security engine, enabling runtime inspection and firewall evaluation for `repopy` CLI operations.
-  - Authored test fixtures and payload definitions in `tests/fixtures/` and `contributions/` to validate extension behaviour.
-  - Worked with maintainers to resolve upstream merge conflicts and pass automated CI checks.
-
----
-
-### 🛠️ Tech Stack & Tooling
-
-#### 🐍 Data & Backend Systems
+#### ⚙️ Languages and Development
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;&nbsp;
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;&nbsp;&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;&nbsp;&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;&nbsp;&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;&nbsp;&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=sqlite&logoColor=4479A1)&nbsp;&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)&nbsp;&nbsp;&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;&nbsp;&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)&nbsp;&nbsp;&nbsp;
+![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)&nbsp;&nbsp;&nbsp;
+![Pydantic](https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)&nbsp;&nbsp;&nbsp;
 
-#### ⚙️ Automation, DevOps & Platform Engineering
+### 🛠️ Developer Tools and Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;
-![GitHub Actions](http://img.shields.io/badge/-GitHub%20Actions-333333?style=for-the-badge&logo=github-actions)&nbsp;&nbsp;&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;&nbsp;
+![GitHub Actions](http://img.shields.io/badge/-GitHub%20Actions-333333?style=for-the-badge&logo=github-actions&logoColor=white)&nbsp;&nbsp;&nbsp;
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=%234EAA25)&nbsp;&nbsp;&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;
 
-#### 🌐 Frontend Web Ecosystem
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)&nbsp;&nbsp;&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)&nbsp;&nbsp;&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;&nbsp;
+#### 🤖 Data Science and Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;&nbsp;&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;&nbsp;&nbsp;
+
+#### 🎓 Currently Learning
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)&nbsp;&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;&nbsp;&nbsp;
