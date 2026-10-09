@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 
 **Incoming BEng (Hons) Artificial Intelligence & Data Engineering Undergraduate**  
-*Passionate about MLOps, Developer Tooling, and Data Infrastructure Systems.*
+*Passionate about MLOps, Developer Tooling, and AI/Data Infrastructure Systems.*
 
 ---
 
