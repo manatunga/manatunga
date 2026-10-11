@@ -24,6 +24,8 @@ pip install repopy
 
 A highly modular, cross-platform Python CLI workspace manager designed to automate reproducible local project scaffolding, system virtual environment isolation, and upstream remote repository synchronization.
 
+[![Reviewed by HOL Guard](https://img.shields.io/badge/HOL_Guard%20|%20Repopy_CLI_protection-2E5AAC?style=for-the-badge&logo=shield&logoColor=white)](https://hol.org/guard/extensions/command.repopy)
+
 <details>
 <summary><b>🔍 View System Architecture & Technical Deep-Dive</b></summary>
 
