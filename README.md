@@ -49,7 +49,7 @@ A highly modular, cross-platform Python CLI workspace manager designed to automa
 ### 🛠️ Developer Tools and Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;&nbsp;
-![GitHub Actions](http://img.shields.io/badge/-GitHub%20Actions-333333?style=for-the-badge&logo=github-actions&logoColor=white)&nbsp;&nbsp;&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=%234EAA25)&nbsp;&nbsp;&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;
