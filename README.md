@@ -13,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🤝 **I'm looking for help with** improving Quilchoom's architecture, activity capture, and documentation-generation workflows.
 - 🌱 **I'm currently learning** backend engineering, software architecture, and AI/ML development.
 - 💬 **Ask me about** Python, Git/GitHub, CLI development, repository tooling, and my open-source projects.
-- ⚡ **Fun fact:** I enjoy building tools that help developers build better tools.
+- ⚡ **Fun fact:** I get suspiciously excited about naming projects. I've got a whole list waiting.
 ---
 
 ### 🔬 Project Spotlight: `repopy` (Active PyPI Distribution)
