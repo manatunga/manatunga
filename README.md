@@ -9,8 +9,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### 🚀 About Me
 
 - 🔭 **I'm currently working on**
-    - [Eloque](https://github.com/manatunga/eloque) — a general-purpose programming language
-    - [Quilchoom](https://github.com/manatunga/quilchoom) — a developer activity scribing tool
+    - [Eloque](https://github.com/manatunga/eloque) — a general-purpose programming language 
+    - [Quilchoom](https://github.com/manatunga/quilchoom) — an evidence-backed developer activity scribing tool
 - 👯 **I'm looking to collaborate on** open-source Python projects, developer tools, CLI applications, and backend development.
 - 🤝 **I'm looking for help with** improving Quilchoom's architecture, activity capture, and documentation-generation workflows.
 - 🌱 **I'm currently learning** backend engineering, software architecture, and AI/ML development.
