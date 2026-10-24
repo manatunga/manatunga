@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 
 **Incoming BEng (Hons) Artificial Intelligence & Data Engineering Undergraduate**  
-*Passionate about MLOps, Developer Tooling, and AI/Data Infrastructure Systems.*
+*Passionate about Compiler Construction, VM Architecture and Low-Level Engineering.*
 
 ---
 
@@ -13,8 +13,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     - [Quilchoom](https://github.com/manatunga/quilchoom) — an evidence-backed developer activity scribing tool
 - 👯 **I'm looking to collaborate on** open-source Python projects, developer tools, CLI applications, and backend development.
 - 🤝 **I'm looking for help with** improving Quilchoom's architecture, activity capture, and documentation-generation workflows.
-- 🌱 **I'm currently learning** backend engineering, software architecture, and AI/ML development.
-- 💬 **Ask me about** Python, Git/GitHub, CLI development, repository tooling, and my open-source projects.
+- 🌱 **I'm currently learning** low-level engineering, software architecture, and AI/ML integration.
+- 💬 **Ask me about** Python, Go, Language Design and my open-source projects.
 - ⚡ **Fun fact:** I get suspiciously excited about naming projects. I've got a whole list waiting.
 ---
 
