@@ -10,6 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🔭 **I'm currently working on**
     - [Eloque](https://github.com/manatunga/eloque) — a general-purpose programming language
+    - [Outrunner](https://github.com/manatunga/outrunner) — an NN compute engine / GPU runtime
 - 👯 **I'm looking to collaborate on** open-source Python/Go projects, developer tools, CLI applications, and backend development.
 - 🤝 **I'm looking for help with** improving Quilchoom's architecture, activity capture, and documentation-generation workflows.
 - 🌱 **I'm currently learning** low-level engineering, software architecture, and AI/ML integration.
