@@ -9,9 +9,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### 🚀 About Me
 
 - 🔭 **I'm currently working on**
-    - [Eloque](https://github.com/manatunga/eloque) — a general-purpose programming language 
-    - [Quilchoom](https://github.com/manatunga/quilchoom) — an evidence-backed developer activity scribing tool
-- 👯 **I'm looking to collaborate on** open-source Python projects, developer tools, CLI applications, and backend development.
+    - [Eloque](https://github.com/manatunga/eloque) — a general-purpose programming language
+- 👯 **I'm looking to collaborate on** open-source Python/Go projects, developer tools, CLI applications, and backend development.
 - 🤝 **I'm looking for help with** improving Quilchoom's architecture, activity capture, and documentation-generation workflows.
 - 🌱 **I'm currently learning** low-level engineering, software architecture, and AI/ML integration.
 - 💬 **Ask me about** Python, Go, Language Design and my open-source projects.
@@ -62,8 +61,8 @@ A highly modular, cross-platform Python CLI workspace manager designed to automa
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;&nbsp;&nbsp;
 
 #### 🎓 Currently Learning
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)&nbsp;&nbsp;&nbsp;
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)&nbsp;&nbsp;&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![Assembly](https://img.shields.io/badge/-Assembly-808080?style=for-the-badge&logo=assemblyscript&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;&nbsp;
