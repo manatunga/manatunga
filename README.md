@@ -62,8 +62,8 @@ A highly modular, cross-platform Python CLI workspace manager designed to automa
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;&nbsp;&nbsp;
 
 #### 🎓 Currently Learning
-![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)&nbsp;&nbsp;&nbsp;
-![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)&nbsp;&nbsp;&nbsp;
+![C/C++](https://img.shields.io/badge/-C/C++-blue?style=for-the-badge&logo=c%2B%2B)&nbsp;&nbsp;&nbsp;
 ![Assembly](https://img.shields.io/badge/-Assembly-808080?style=for-the-badge&logo=assemblyscript&logoColor=white)&nbsp;&nbsp;&nbsp;
+![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;&nbsp;
