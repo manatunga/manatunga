@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 
 **Incoming BEng (Hons) Artificial Intelligence & Data Engineering Undergraduate**  
-*Passionate about Compiler Construction, VM Architecture and Low-Level Engineering.*
+*Passionate about Compiler & Kernel Construction, VM Architecture and Low-Level Engineering.*
 
 ---
 
@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🔭 **I'm currently working on**
     - [Eloque](https://github.com/manatunga/eloque) — a general-purpose programming language
     - [Outrunner](https://github.com/manatunga/outrunner) — an NN compute engine / GPU runtime
-- 👯 **I'm looking to collaborate on** open-source Python/Go projects, developer tools, CLI applications, and backend development.
+- 👯 **I'm looking to collaborate on** open-source projects, developer tools, CLI applications, and low-level systems.
 - 🤝 **I'm looking for help with** improving [Quilchoom's](https://github.com/manatunga/quilchoom) architecture, activity capture, and documentation-generation workflows.
 - 🌱 **I'm currently learning** low-level engineering, software architecture, and AI/ML integration.
 - 💬 **Ask me about** Python, Go, Language Design and my open-source projects.
