@@ -45,7 +45,7 @@ A highly modular, cross-platform Python CLI workspace manager designed to automa
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;&nbsp;
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;&nbsp;
-![C++](https://img.shields.io/badge/-C/C++-blue?style=for-the-badge&logo=c%2B%2B)&nbsp;&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)&nbsp;&nbsp;&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=%234EAA25)&nbsp;&nbsp;&nbsp;
 
 #### 🌐 Frontend Development
